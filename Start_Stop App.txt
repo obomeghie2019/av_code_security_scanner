@@ -1,0 +1,14 @@
+===Start Backend===
+
+cd C:\Users\HP\Desktop\AVS_Tool\backend
+venv/Scripts/activate
+python app.py
+ 
+STOP:::::CTRL+C 
+
+===Start Backend===
+
+cd C:\Users\HP\Desktop\AVS_Tool\frontend
+npm start
+
+STOP:::::CTRL+C  
